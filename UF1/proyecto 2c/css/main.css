@@ -1,31 +1,27 @@
-*{border: solid 1px red;}
-
-
-
-
-h1{
-font-family: 'Lato', sans-serif;
-color: grey;
-opacity: 0.5;
+* {
+  border: solid 1px red;
 }
 
-h2{
-
-font-weight: 100;
-color: grey;
-opacity: 0.5;
+body {
+  font-family: "Lato", sans-serif;
 }
 
-h3{
-
-color: grey;
-
+h1 {
+  color: grey;
+  opacity: 0.5;
 }
 
+h2 {
+  font-weight: 100;
+  color: grey;
+  opacity: 0.5;
+}
 
-#p{
+h3 {
+  color: grey;
+}
 
-color: black;
-
-font-size: 15px;
+#p {
+  color: black;
+  font-size: 15px;
 }
