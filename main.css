@@ -1,0 +1,47 @@
+body{
+    
+    background-image: url("./img/background.jpg");
+}
+
+.primerafila{
+    width: 1400px;
+    height:600px;
+    display: flex;
+    justify-content:center;
+    
+}
+
+div{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 70px;
+    }
+
+#uno{
+   
+    background-color:yellow;
+
+}
+
+ #dos{
+     background-color: pink;
+ }
+
+ #tres{
+    background-color: cyan;
+}
+
+#cuatro{
+    background-color: greenyellow;
+}
+
+a{
+
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
